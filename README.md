@@ -5,7 +5,7 @@ a Preregistered Study". The preregistration can be found here: https://osf.io/v9
 
 ## Running the Experiments
 
-## Preprocessing the benchmark 
+### Preprocessing the benchmark 
 In order to preprocess the benchmark into a Same Side Stance benchmark, we used the following script, in the "preprocessing" directory:
 * stancebenchmark_functions.py is used to access and store the stance benchmark datasets;
 * TrainingData_StanceBenchmark_intoSameSideStance.ipynb imports the functions from the .py file and preprocesses the datasets into Same Side Stance.
