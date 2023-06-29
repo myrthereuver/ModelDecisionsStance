@@ -1,7 +1,7 @@
 # Stance Modelling
 
 This is the repository for the paper "Modelling (Same Side) Stance Detection for Detecting Different Viewpoints:
-a Preregistered Study". The preregistration can be found here: https://osf.io/v9snk?view_only=abbd99d27b9a471fb2e4df8ffdafd2a1
+a Preregistered Study". The anonymous preregistration can be found here: https://osf.io/v9snk?view_only=abbd99d27b9a471fb2e4df8ffdafd2a1
 
 ## Running the Experiments
 
