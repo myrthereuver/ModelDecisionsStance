@@ -1,7 +1,8 @@
 # Stance Modelling
 
-This is the repository for the paper "Modelling (Same Side) Stance Detection for Detecting Different Viewpoints:
-a Preregistered Study". The anonymous preregistration can be found here: https://osf.io/v9snk?view_only=abbd99d27b9a471fb2e4df8ffdafd2a1
+This is the repository for the paper "Investigating the Robustness of Modelling Decisions for Few-Shot Cross-Topic Stance Detection: A Preregistered Study". 
+[URL to the paper]()
+[URL to the preregistration of the modelling decisions](https://osf.io/v9snk?view_only=abbd99d27b9a471fb2e4df8ffdafd2a1](https://osf.io/zrhe7/?view_only=abbd99d27b9a471fb2e4df8ffdafd2a1)
 
 ## Running the Experiments
 
