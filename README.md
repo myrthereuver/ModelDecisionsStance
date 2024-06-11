@@ -2,6 +2,10 @@
 
 This is the repository for the paper "Investigating the Robustness of Modelling Decisions for Few-Shot Cross-Topic Stance Detection: A Preregistered Study" (Published at LREC-COLING 2024).
 
+Contact person: Myrthe Reuver, e-mail: myrthe[dot]reuver[at]vu.nl
+
+This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
+
 [URL to the paper]()
 
 [URL to the preregistration of the modelling decisions](https://osf.io/v9snk?view_only=abbd99d27b9a471fb2e4df8ffdafd2a1)
